@@ -1,0 +1,16 @@
+# Python / Cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Fichiers temporaires ou logs Streamlit
+.streamlit/
